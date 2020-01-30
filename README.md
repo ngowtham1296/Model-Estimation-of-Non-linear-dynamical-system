@@ -37,7 +37,7 @@ The important prerequisites of this projects are
 
 
 
-
-##**Deployment:**
+**4**.
+**Deployment:**
 
   - To  run in a real time hardware, we need a fully working hardware with the sensors compatible with our PC. Once we get this hardware compatible with the software, we can try implementing on the real world system. E.g. Flight control systems uses model predictive controls for its control system.
